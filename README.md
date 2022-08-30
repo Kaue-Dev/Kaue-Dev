@@ -1,8 +1,8 @@
 ## Seja bem-vindo(a) ao meu perfil!
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=omni"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=omni"/>
 </div>
 
 <br>
