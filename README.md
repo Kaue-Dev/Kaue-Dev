@@ -27,3 +27,6 @@
   <a href="https://www.linkedin.com/in/kauedev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/id/s1mpley11/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
+
+## Atividade
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=desenvjonathan&theme=tokyo-night&hide_border=true">
