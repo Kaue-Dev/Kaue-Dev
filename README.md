@@ -28,5 +28,5 @@
   <a href="https://steamcommunity.com/id/s1mpley11/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
-## Atividade
-<img height="165em" src="https://activity-graph.herokuapp.com/graph?username=Kaue-Dev&theme=tokyo-night&hide_border=true">
+## Atividades
+<img height="260em" src="https://activity-graph.herokuapp.com/graph?username=Kaue-Dev&theme=tokyo-night&hide_border=true">
