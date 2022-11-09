@@ -29,4 +29,4 @@
 </div>
 
 ## Atividade
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Kaue-Dev&theme=tokyo-night&hide_border=true">
+<img height="165em" src="https://activity-graph.herokuapp.com/graph?username=Kaue-Dev&theme=tokyo-night&hide_border=true">
