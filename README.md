@@ -4,7 +4,6 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=github_dark"/> 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=github_dark"/>
 </div>
-
 <br>
 
 ## Tecnologias
@@ -30,3 +29,4 @@
 
 ## Atividades
 <img height="260em" src="https://activity-graph.herokuapp.com/graph?username=Kaue-Dev&theme=tokyo-night&hide_border=true">
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaue-Dev&theme=tokyonight&hide_border=true">
