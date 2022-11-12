@@ -1,11 +1,13 @@
 ## Seja bem-vindo(a) ao meu perfil!
 
+## Atividades 📈
 <div>
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=tokyonight&hide_border=true"/> 
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
   <br>
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Kaue-Dev&theme=tokyo-night&hide_border=true">
 </div>
+
 <br>
 
 ## Tecnologias 🖥️
@@ -27,10 +29,4 @@
   <a href="https://instagram.com/kauesim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/kauedev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/id/s1mpley11/" target="_blank"><img src="https://img.shields.io/badge/Steam-20232A?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-</div>
-
-## Atividades 📈
-<div>
-  <img height="155em" src="https://activity-graph.herokuapp.com/graph?username=Kaue-Dev&theme=tokyo-night&hide_border=true">
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaue-Dev&theme=tokyonight&hide_border=true">
 </div>
