@@ -1,5 +1,3 @@
-## Seja bem-vindo(a) ao meu perfil!
-
 ## Atividades 📈
 <div>
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=tokyonight&hide_border=true"/> 
