@@ -28,5 +28,7 @@
 </div>
 
 ## Atividades 📈
-<img height="260em" src="https://activity-graph.herokuapp.com/graph?username=Kaue-Dev&theme=tokyo-night&hide_border=true">
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaue-Dev&theme=tokyonight&hide_border=true">
+<div>
+  <img height="185em" src="https://activity-graph.herokuapp.com/graph?username=Kaue-Dev&theme=tokyo-night&hide_border=true">
+  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaue-Dev&theme=tokyonight&hide_border=true">
+</div>
