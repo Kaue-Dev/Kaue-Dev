@@ -1,9 +1,9 @@
 ## Atividades 📈
 <div>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=tokyonight&hide_border=true"/> 
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=react&hide_border=true"/> 
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=react&hide_border=true"/>
   <br>
-  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Kaue-Dev&theme=tokyo-night&hide_border=true">
+  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Kaue-Dev&theme=react&hide_border=true">
 </div>
 
 <br>
