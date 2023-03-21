@@ -28,6 +28,6 @@
 <div>
   <a href="https://twitter.com/s1mpleey" target="_blank"><img src="https://img.shields.io/badge/Twitter-20232A?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/kauesim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/kauedev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/kauepadilha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/id/s1mpley11/" target="_blank"><img src="https://img.shields.io/badge/Steam-20232A?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
