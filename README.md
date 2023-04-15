@@ -13,20 +13,19 @@
 ![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 <br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Bulma-563D7C?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=white)
 <br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-007ACC?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-007ACC?style=for-the-badge&logo=node.js&logoColor=white)
+<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
  
 ## Redes Sociais 📱
 <div>
-  <a href="https://twitter.com/s1mpleey" target="_blank"><img src="https://img.shields.io/badge/Twitter-20232A?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/kauesim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/kauepadilha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/id/s1mpley11/" target="_blank"><img src="https://img.shields.io/badge/Steam-20232A?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
