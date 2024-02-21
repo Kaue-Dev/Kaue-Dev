@@ -1,7 +1,7 @@
 ## Atividades 📈
 <div>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=react&hide_border=true"/> 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=react&hide_border=true"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=react&hide_border=true"/>
   <br>
 </div>
 
@@ -13,17 +13,10 @@
 ![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br>
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-007ACC?style=for-the-badge&logo=node.js&logoColor=white)
-<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
  
 ## Redes Sociais 📱
