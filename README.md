@@ -1,7 +1,8 @@
 ## Atividades 📈
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=react&hide_border=true"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=react&hide_border=true"/>
+  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=react&hide_border=true"/> 
+  <br>
+  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=react&hide_border=true"/>
   <br>
 </div>
 
