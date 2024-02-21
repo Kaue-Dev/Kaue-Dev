@@ -29,5 +29,5 @@
 ## Minhas Atividades 📈
 <div align="flex-start">
   <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=react&hide_border=true"/> 
-  <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=react&hide_border=true"/>
+  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=react&hide_border=true"/>
 </div>
