@@ -1,5 +1,5 @@
 
-<div align="center">
+<div>
   <h1>Olá, eu sou o Kauê! 👋</h1>
 
   <h3>Desenvolvedor Front-end | Web Designer</h3>
@@ -66,12 +66,3 @@ Também utilizo **Inteligência Artificial no meu fluxo de desenvolvimento**, co
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=react&hide_border=true" alt="Linguagens mais utilizadas" />
-</div>
