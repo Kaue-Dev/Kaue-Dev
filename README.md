@@ -1,37 +1,77 @@
-<h1>Kauê | Frontend Developer</h1>
-<div align="flex-start">
-  <a href="https://instagram.com/kauesim"><img src="https://img.shields.io/badge/-@kauesim-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kauepadilha/"><img src="https://img.shields.io/badge/-Kauê%20Andrade%20Padilha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:kapadilha@minha.fag.edu.br"><img src="https://img.shields.io/badge/-kapadilha@minha.fag.edu.br-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://steamcommunity.com/id/s1mpley11/"><img src="https://img.shields.io/badge/s1mpley11-20232A?style=flat-square&logo=steam&logoColor=white"></a>
+
+<div align="center">
+  <h1>Olá, eu sou o Kauê! 👋</h1>
+
+  <h3>Desenvolvedor Front-end | Web Designer</h3>
+
+  <p>
+    JavaScript • TypeScript • React • Next.js • WordPress
+  </p>
+
+  <a href="https://www.linkedin.com/in/kauepadilha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kaueandradepadilha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/kauesim">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </div>
 
-## Sobre Mim
-- Sou Apaixonado por Desenvolvimento Frontend e Estudo Programação desde Janeiro de 2023
-- Também gosto de Criar Interfaces de Usuário utilizando o Figma
-- Sou formado pelo Instituto Federal do Paraná como Técnico em Informática
-- Estou Cursando uma Graduação em Engenharia de Software no Centro Universitário FAG
-- Gasto meu tempo Livre em Jogos, Meu jogo Favorito é Red Dead Redemption 2
-- Também assisto Animes, meu anime Favorito é Jujutsu Kaisen
+---
 
-## Minha Stack Frontend 🖥️
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-E34F26?&style=for-the-badge&logo=css3&logoColor=white)
-![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<br>
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-<br>
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
- 
-## Minhas Atividades 📈
-<div align="flex-start">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=react&hide_border=true"/> 
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=react&hide_border=true"/>
+### 👨‍💻 Sobre mim
+
+Sou **desenvolvedor front-end e estudante de Engenharia de Software**, com experiência profissional desde 2024 na criação, manutenção e evolução de sites e soluções web.
+
+Atualmente, trabalho com **WordPress, Divi, HTML, CSS, JavaScript e PHP**, desenvolvendo interfaces responsivas, implementando funcionalidades e realizando otimizações de performance, SEO e usabilidade.
+
+Paralelamente, exploro o ecossistema JavaScript por meio de estudos e projetos pessoais com **React, Next.js, TypeScript e Node.js**, aplicando conceitos como componentização, integração com APIs REST, autenticação e persistência de dados.
+
+Também utilizo **inteligência artificial no meu fluxo de desenvolvimento**, principalmente o **OpenAI Codex**, como apoio à implementação de funcionalidades, análise de código, refatoração e resolução de problemas.
+
+- 🎓 Graduando em **Engenharia de Software** — Centro Universitário FAG
+- 💻 Técnico em Informática — Instituto Federal do Paraná (IFPR)
+- 🚀 Sempre explorando novas tecnologias e boas práticas de desenvolvimento
+- 🎮 Nas horas vagas, gosto de games, especialmente Red Dead Redemption 2
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+**Desenvolvimento Web — Experiência profissional**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Divi](https://img.shields.io/badge/Divi-7927C6?style=for-the-badge)
+
+**Ecossistema JavaScript — Estudos e projetos**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Ferramentas e produtividade**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=react&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=react&hide_border=true" alt="Linguagens mais utilizadas"/>
 </div>
