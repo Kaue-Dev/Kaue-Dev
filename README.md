@@ -8,13 +8,13 @@
     JavaScript • TypeScript • React • Next.js • WordPress
   </p>
 
-  <a href="https://www.linkedin.com/in/kauepadilha/">
+  <a href="https://www.linkedin.com/in/kauepadilha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:kaueandradepadilha@gmail.com">
+  <a href="mailto:kaueandradepadilha@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://instagram.com/kauesim">
+  <a href="https://instagram.com/kauesim" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
@@ -23,18 +23,18 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou **desenvolvedor front-end e estudante de Engenharia de Software**, com experiência profissional desde 2024 na criação, manutenção e evolução de sites e soluções web.
+Sou **Desenvolvedor Front-end e estudante de Engenharia de Software**, com experiência profissional desde 2024 na criação, manutenção e evolução de sites e soluções web.
 
 Atualmente, trabalho com **WordPress, Divi, HTML, CSS, JavaScript e PHP**, desenvolvendo interfaces responsivas, implementando funcionalidades e realizando otimizações de performance, SEO e usabilidade.
 
-Paralelamente, exploro o ecossistema JavaScript por meio de estudos e projetos pessoais com **React, Next.js, TypeScript e Node.js**, aplicando conceitos como componentização, integração com APIs REST, autenticação e persistência de dados.
+Paralelamente, exploro o ecossistema Javascript por meio de estudos e projetos pessoais com **React, Next.js, TypeScript e Node.js**, aplicando conceitos como componentização, integração com APIs REST, autenticação e persistência de dados.
 
-Também utilizo **inteligência artificial no meu fluxo de desenvolvimento**, principalmente o **OpenAI Codex**, como apoio à implementação de funcionalidades, análise de código, refatoração e resolução de problemas.
+Também utilizo **Inteligência Artificial no meu fluxo de desenvolvimento**, como apoio à implementação de funcionalidades, análise de código, refatoração e resolução de problemas.
 
 - 🎓 Graduando em **Engenharia de Software** — Centro Universitário FAG
 - 💻 Técnico em Informática — Instituto Federal do Paraná (IFPR)
 - 🚀 Sempre explorando novas tecnologias e boas práticas de desenvolvimento
-- 🎮 Nas horas vagas, gosto de games, especialmente Red Dead Redemption 2
+- 🎮 Nas horas vagas, gosto de games, especialmente Red Dead Redemption 2 e Call Of Duty
 
 ---
 
@@ -72,6 +72,6 @@ Também utilizo **inteligência artificial no meu fluxo de desenvolvimento**, pr
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=react&hide_border=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=react&hide_border=true" alt="Linguagens mais utilizadas"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaue-Dev&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Dev&layout=compact&theme=react&hide_border=true" alt="Linguagens mais utilizadas" />
 </div>
